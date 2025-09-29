@@ -1,0 +1,10 @@
+.studentLogin {
+    width: 284px;
+    height: 120px;
+    text-align: center;
+    line-height: 120px;
+    margin: 0 auto;
+    font-size: 28px;
+    border-radius: 15px;
+    background-color: #D9D9D9;
+}

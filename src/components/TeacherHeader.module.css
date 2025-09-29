@@ -1,0 +1,19 @@
+.header{
+    margin-top: 63px;
+}
+
+.text{
+    font-size: 32px;
+    color: var(--sub-color1);
+    text-align: center;
+}
+
+.user{
+    width: 36px;
+    height: 36px;
+    background-color: rgba(223, 81, 81, 0.36);
+    border-radius: 50%;
+    position: fixed;
+    top: 63px;
+    right: 22px;
+}

@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.menuBox{
+    width: 300px;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+    background-color: #D9D9D9;
+    border-radius: 10px;
+    font-size: 18px;
+    border: 1px solid;
+}
