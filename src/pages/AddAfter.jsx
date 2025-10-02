@@ -1,7 +1,9 @@
-import TeacherHeader from "../components/TeacherHeader"
-import AfterName from "../components/AddAfter/AfterName"
-import Date from "../components/AddAfter/Date"
-import Explanation from "../components/AddAfter/Explanation"
+import TeacherHeader from "../components/Teacher/TeacherHeader"
+import AfterName from "../components/Teacher/AddAfter/AfterName"
+import Date from "../components/Teacher/AddAfter/Date"
+import Explanation from "../components/Teacher/AddAfter/Explanation"
+import Person from "../components/Teacher/AddAfter/Person"
+import AddButton from "../components/Teacher/AddAfter/AddButton"
 
 const AddAfter = () => {
     return(
@@ -10,6 +12,8 @@ const AddAfter = () => {
             <AfterName />
             <Date />
             <Explanation />
+            <Person />
+            <AddButton />
         </>
     )
 }

@@ -1,7 +1,9 @@
+import StudentHeader from "../components/Student/StudentHeader"
+
 const StudentHome = () => {
     return(
         <>
-            
+            <StudentHeader />
         </>
     )
 }

@@ -1,7 +1,7 @@
-import TeacherHeader from "../components/TeacherHeader"
-import TeacherBox from "../components/TeacherHome/TeacherBox"
-import Subject from "../components/TeacherHome/Subject"
-import MyAfter from "../components/TeacherHome/MyAfter"
+import TeacherHeader from "../components/Teacher/TeacherHeader"
+import TeacherBox from "../components/Teacher/TeacherHome/TeacherBox"
+import Subject from "../components/Teacher/TeacherHome/Subject"
+import MyAfter from "../components/Teacher/TeacherHome/MyAfter"
 
 const TeacherHome = () => {
     return(
