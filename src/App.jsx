@@ -4,6 +4,7 @@ import Login from './pages/Login'
 import StudentHome from './pages/StudentHome'
 import TeacherHome from './pages/TeacherHome'
 import AddAfter from './pages/AddAfter'
+import Application from './pages/Application'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
           <Route path='/StudentHome' element={ <StudentHome /> } />
           <Route path='/TeacherHome' element={ <TeacherHome /> } />
           <Route path='/AddAfter' element={ <AddAfter /> } />
+          <Route path='/Application' element={ <Application /> } />
         </Routes>
       </BrowserRouter>
     </>
