@@ -8,6 +8,7 @@ const TeacherBox = () => {
                 <Link to='/AddAfter'><div className={styles.menuBox}>방과후 등록</div></Link>
                 <div className={styles.menuBox}>방과후 공지</div>
                 <div className={styles.menuBox}>방과후 수정∙삭제</div>
+                <div className={styles.menuBox}>내 방과후</div>
             </div>
         </>
     )

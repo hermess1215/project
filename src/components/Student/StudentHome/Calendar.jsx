@@ -17,7 +17,7 @@ const Calendar = () => {
     Tue: "blue",
     Wed: "green",
     Thu: "blue",
-    Fri: ["red", "green"],
+    Fri: ["red"],
   };
 
   const [selected, setSelected] = useState({});
